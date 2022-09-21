@@ -11,3 +11,5 @@ mtcars <- as.data.table(mtcars)
 
 #Filtrar datos
 mtcars[cyl==6]
+
+#Muy bien 
